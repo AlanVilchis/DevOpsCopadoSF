@@ -186,6 +186,14 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+        </fields>
+        <fields>
+        <fullName>Field_Four__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Field Four</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
     <validationRules>
         <fullName>DemoValidationRuleOne</fullName>
         <active>true</active>
